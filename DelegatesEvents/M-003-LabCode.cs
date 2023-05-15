@@ -29,6 +29,7 @@ public class DivisionsCalculator
 	}
 }
 
+// Diese Methode kann für das dritte Event bearbeitet werden
 // public bool CheckPrime(int num)
 // {
 // if (num % 2 == 0)
