@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading\Multithreading.csproj", "{286CC9CC-B03C-47BC-AE43-BBCDF1CC6372}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multitasking", "Multitasking\Multitasking.csproj", "{BE0957FF-11E0-4026-9C1B-E7D1F5E37776}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{286CC9CC-B03C-47BC-AE43-BBCDF1CC6372}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{286CC9CC-B03C-47BC-AE43-BBCDF1CC6372}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{286CC9CC-B03C-47BC-AE43-BBCDF1CC6372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0957FF-11E0-4026-9C1B-E7D1F5E37776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0957FF-11E0-4026-9C1B-E7D1F5E37776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0957FF-11E0-4026-9C1B-E7D1F5E37776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0957FF-11E0-4026-9C1B-E7D1F5E37776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
