@@ -11,15 +11,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesEvents", "Delegate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{4C5C902B-B457-4570-924B-8AC09BF13868}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisierung\Serialisierung.csproj", "{3D73ACC1-A838-4D99-9DA2-2DB6B1B008F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialisierung", "Serialisierung\Serialisierung.csproj", "{3D73ACC1-A838-4D99-9DA2-2DB6B1B008F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multithreading", "Multithreading\Multithreading.csproj", "{286CC9CC-B03C-47BC-AE43-BBCDF1CC6372}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multithreading", "Multithreading\Multithreading.csproj", "{286CC9CC-B03C-47BC-AE43-BBCDF1CC6372}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multitasking", "Multitasking\Multitasking.csproj", "{BE0957FF-11E0-4026-9C1B-E7D1F5E37776}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multitasking", "Multitasking\Multitasking.csproj", "{BE0957FF-11E0-4026-9C1B-E7D1F5E37776}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{EF1BC5E3-4EF8-45B5-B5D6-FB818B3E10F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{EF1BC5E3-4EF8-45B5-B5D6-FB818B3E10F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitWPF", "AsyncAwaitWPF\AsyncAwaitWPF.csproj", "{1BB9665D-B166-4AA4-8466-C794C08CE9BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncAwaitWPF", "AsyncAwaitWPF\AsyncAwaitWPF.csproj", "{1BB9665D-B166-4AA4-8466-C794C08CE9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqErweiterungsmethoden", "LinqErweiterungsmethoden\LinqErweiterungsmethoden.csproj", "{DB28BDE7-DEB9-4AD6-B8DF-E26BB71FADFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{1BB9665D-B166-4AA4-8466-C794C08CE9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BB9665D-B166-4AA4-8466-C794C08CE9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BB9665D-B166-4AA4-8466-C794C08CE9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB28BDE7-DEB9-4AD6-B8DF-E26BB71FADFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB28BDE7-DEB9-4AD6-B8DF-E26BB71FADFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB28BDE7-DEB9-4AD6-B8DF-E26BB71FADFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB28BDE7-DEB9-4AD6-B8DF-E26BB71FADFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
